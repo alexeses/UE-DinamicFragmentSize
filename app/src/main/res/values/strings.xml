@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActividadUF3_5</string>
+    <string name="text_python">#!/usr/bin/env python\n# -*- coding: utf-8 -*-\nprint(\"¡Hola mundo!\")</string>
+    <string name="text_java">public class HelloWorld {\n\tpublic static void main(String args[])  {\n\t\tSystem.out.println(\"¡Hola Mundo!\");\n\t}\n}</string>
+    <string name="editText_hint">Enter size of text</string>
+    <string name="btnChangeSize">Change Size</string>
+    <string name="defaultFrameText">Hello World!</string>
+</resources>
